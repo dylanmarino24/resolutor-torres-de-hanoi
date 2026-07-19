@@ -1,4 +1,4 @@
-# Resolutor de Torres de Hanoi (Grafo Explicito + BFS)
+# Resolutor de Torres de Hanoi (Grafo Explicito Y BFS)
 
 Este proyecto es una implementación en Java que resuelve el clásico juego de las Torres de Hanoi encontrando la ruta más corta posible.
 
